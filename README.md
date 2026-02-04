@@ -1,3 +1,5 @@
 # repo-man
 shimmy shimmy yay
-! [Me] (CalderPhoto.png)
+
+<img src="CalderPhoto.png" alt="Moi" width="200" height="400">
+
